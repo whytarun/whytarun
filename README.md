@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@why_tarun" target="blank"><img src="https://img.shields.io/twitter/follow/@why_tarun?logo=twitter&style=for-the-badge" alt="why_tarun" /></a> </p>
 
-- 🔭 I’m currently working on **Android Framework**
+- 🔭 I’m currently working on **Android **
 
 - 👨‍💻 All of my projects are available at [https://github.com/whytarun](https://github.com/whytarun)
 
