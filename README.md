@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whytarun" alt="whytarun" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@why_tarun" target="blank"><img src="https://img.shields.io/twitter/follow/@why_tarun?logo=twitter&style=for-the-badge" alt="@why_tarun" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@why_tarun" target="blank"><img src="https://img.shields.io/twitter/follow/@why_tarun?logo=twitter&style=for-the-badge" alt="why_tarun" /></a> </p>
 
 - 🔭 I’m currently working on **Android Framework**
 
