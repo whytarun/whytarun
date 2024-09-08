@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun Yekbote</h1>
 <h3 align="center">A passionate Senior Android developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whytarun&label=Profile%20views&color=0e75b6&style=flat" alt="whytarun" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whytarun" alt="whytarun" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@why_tarun" target="blank"><img src="https://img.shields.io/twitter/follow/@why_tarun?logo=twitter&style=for-the-badge" alt="why_tarun" /></a> </p>
-
 - 🔭 I’m currently working on **Android **
 
 - 👨‍💻 All of my projects are available at [https://github.com/whytarun](https://github.com/whytarun)
